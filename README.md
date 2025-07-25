@@ -3,7 +3,7 @@
 This is a real-time **voice-based chatbot** built in Python that listens to your speech 🎙️, sends the text to **Cohere's AI model**, and reads out the response using **text-to-speech** 🔊.  
 Everything happens in English — from speech recognition to AI response to spoken output.
 <p align="center">
-  <img src="pic2.png" alt="chatbot" width="500"/>
+  <img src="pic2.webp" alt="chatbot" width="500"/>
 </p>
 ---
 <p align="center">
