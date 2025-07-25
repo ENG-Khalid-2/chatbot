@@ -3,7 +3,7 @@ import pyttsx3
 import cohere
 
 # Cohere API 
-co = cohere.Client("2KwvX2vRrQy1cxsRbQecHhkfX7kGRyi5BIW3BIxs")
+co = cohere.Client("the API key")
 
 # Text-to-Speech 
 def speak(text):
